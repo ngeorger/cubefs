@@ -10,6 +10,6 @@ require (
 	github.com/jacobsa/timeutil v0.0.0-20170205232429-577e5acbbcf6
 	github.com/kahing/go-xattr v1.1.1
 	github.com/kylelemons/godebug v1.1.0
-	golang.org/x/sys v0.0.0-20220209214540-3681064d5158
+	golang.org/x/sys v0.1.0
 	launchpad.net/gocheck v0.0.0-20140225173054-000000000087 // indirect
 )
